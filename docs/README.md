@@ -4,7 +4,7 @@ Welcome to the OctoAcme Project Management documentation. This README provides a
 
 ## Summary of Project Management Processes
 
-OctoAcme follows an iterative, customer-first project management approach that guides projects from initial idea through to release and continuous improvement. The lifecycle consists of five key phases:
+OctoAcme follows an iterative, customer-first project management approach that guides projects from initial idea through to release and continuous improvement. The lifecycle consists of six key phases:
 
 1. **Initiation** — Validate the business need, align stakeholders, define success criteria, and decide whether to proceed.
 2. **Planning** — Break work into shippable increments, create a prioritized backlog, identify dependencies and risks, and align on milestones and release plans.
